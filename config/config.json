@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "amar",
+    "password": "Amar@amar1",
+    "database": "connector",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "amar",
+    "password": "Amar@amar1",
+    "database": "connector",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "amar",
+    "password": "Amar@amar1",
+    "database": "connector",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
